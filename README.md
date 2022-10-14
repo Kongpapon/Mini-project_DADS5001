@@ -22,4 +22,9 @@ source : https://www.mots.go.th/news/category/594 https://www.mots.go.th/news/ca
 1.Dataset ที่นำมาใช้ต้อง clean data อย่างละเอียด.  
 2.เมื่อ merge data แล้ว ยัง plot กราฟไม่เป็น ต้องนำไป transpose ก่อนหลังจากนั้นค่อย plot graph.  
 3.ไม่สามารถทำให้ data ใน graph เป็นภาษาไทยได้.  
-4.สามารถขยับตัวเลขในกราฟที่ซ้อนกันได้ แต่บางกราฟเมื่อขยับแล้วจะไม่สวยจึงไม่ได้ขยับตัวเลข.  
+4.สามารถขยับตัวเลขในกราฟที่ซ้อนกันได้ แต่บางกราฟเมื่อขยับแล้วจะไม่สวยจึงไม่ได้ขยับตัวเลข.
+
+
+![top_travel](Image/month_62-64.png)  
+
+![top_travel](Image/region_62-64.png)  
