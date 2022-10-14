@@ -5,7 +5,7 @@
 By : Kongpapon Sangrung (id : 6420412001) 
 
 ## Dataset :  
-มีจำนวน 2,210 rows, 52 columns เป็นข้อมูลรายได้จากนักท่องเที่ยวชาวไทยตั้งแต่ปี 2562 – 2564 รวมทุกภูมิภาคในประเทศไทย และทุกเดือนภายในปี 2562 – 2564
+มีจำนวน 2,210 rows, 52 columns เป็นข้อมูลรายได้จากนักท่องเที่ยวชาวไทยตั้งแต่ปี 2562 – 2564 รวมทุกภูมิภาคในประเทศไทย และทุกเดือนภายในปี 2562 – 2564  
 source : https://data.go.th/dataset/stattourism?fbclid=IwAR30MqK-8hA743tKz8uBpPQ7cKyiYi8PKDiN7TImiEHHQYyQthLMTCGSBI4  
 
 ## Question & Answer :    
